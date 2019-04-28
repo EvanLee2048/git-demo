@@ -4,6 +4,6 @@ class Main:
         print('initialize')
 
     def test(self):
-        print('test')
+        print('Soman')
 
 Main().test()
