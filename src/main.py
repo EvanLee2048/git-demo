@@ -1,10 +1,11 @@
 class Main:
 
     def __init__(self):
+        print('init')
         
 
     def test(self):
-        print('Soman')
-        print('initialize')
+        print('test')
+        print('end')
 
 Main().test()
