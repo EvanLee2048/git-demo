@@ -5,7 +5,7 @@ class Main:
         
 
     def test(self):
-        print('test1')
+        print('guozhuomin')
         print('end')
 
 Main().test()
